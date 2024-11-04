@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuralCosts</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting_one_text">Ajuste 1</string>
+    <string name="setting_two_text">Ajuste 2</string>
+</resources>
